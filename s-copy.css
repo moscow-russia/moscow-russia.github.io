@@ -1,0 +1,330 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.element {
+  float: left;
+  background-repeat: no-repeat;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.text-3 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  border-radius: 3px;
+  font-size: 1em;
+  text-align: center;
+}
+
+.container-1 {
+  float: left;
+  width: 100%;
+  min-width: 900px;
+  height: 1763px;
+}
+
+.container-2 {
+  float: right;
+  clear: both;
+  width: 313px;
+  min-width: 313px;
+  max-width: 313px;
+  height: 31px;
+  margin: 13px 1.44271% 0 0;
+}
+
+.container-3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 100%;
+  height: 682px;
+  margin: -781px 0 0 8.44271%;
+}
+
+.container-4 {
+  width: 900px;
+  min-width: 900px;
+  max-width: 900px;
+  height: 85px;
+  margin: 1286px auto 0;
+}
+
+.container-5 {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 123px;
+  margin-top: 22px;
+  background-color: rgb(188, 188, 188);
+}
+
+.element-1 {
+  width: 100%;
+  height: 174px;
+  background-image: url('../images/1800px-Panorama_di_Mosca_dal_Piazzale_antistante_Universit%C3%A0_Statale_Lomonosov.jpg');
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-2 {
+  position: relative;
+  z-index: 8;
+  width: 66.7777777777%;
+  height: 295px;
+  margin: 87px 0 0 1.5503499999%;
+  background-image: url('../images/860px-Moscow_July_2011-49.jpg');
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.element-3 {
+  position: relative;
+  z-index: 9;
+  width: 26.8385416666%;
+  height: 361px;
+  margin: 59px 0 0 2.16146%;
+  background-image: url('../images/The_Worker_and_Kolkhoz_Woman.jpg');
+  background-size: cover;
+  background-position: left top;
+}
+
+.text-1 {
+  float: left;
+  width: 67.9493569933%;
+  min-height: 31px;
+  margin-left: 5.73582%;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  margin: 227px auto 0;
+  font-size: 1.875em;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 5;
+  width: 93.7777777777%;
+  min-height: 614px;
+  margin: 42px 0 0 3.55035%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  float: left;
+  margin: 35px 0 0 5.88889%;
+  font-size: 1.875em;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-1 {
+  float: left;
+  width: 22.011763533%;
+  height: 23px;
+  margin-left: 4.28814%;
+  background-color: rgba(222, 222, 222, 0);
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-1:hover {
+  background-color: rgb(222, 222, 222);
+}
+
+.container ._button-1:active {
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(222, 222, 222);
+}
+
+.container ._button-2 {
+  position: relative;
+  float: left;
+  z-index: 10;
+  width: 200px;
+  height: 50px;
+  margin: 16px 0 0 17px;
+  background: url('../images/290px-MSK_Collage_2015.png') rgb(255, 255, 255);
+  background-size: auto auto;
+  background-position: center bottom;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 13;
+  width: 22.2222222222%;
+  height: 50px;
+  margin: -50px 0 0 1.88889%;
+  background-color: rgba(222, 222, 222, 0.45);
+  color: rgb(0, 0, 38);
+}
+
+.container ._button-4 {
+  position: relative;
+  float: left;
+  z-index: 14;
+  width: 200px;
+  height: 50px;
+  margin: -50px 0 0 240px;
+  background: url('../images/290px-MSK_Collage_2015(2).png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: 405px 405px;
+  background-position: 0% 40%;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-5 {
+  position: relative;
+  float: left;
+  z-index: 15;
+  width: 22.2222222222%;
+  height: 50px;
+  margin: -50px 0 0 26.66667%;
+  background-color: rgba(222, 222, 222, 0.45);
+  color: rgb(0, 0, 38);
+}
+
+.container ._button-6 {
+  position: relative;
+  float: left;
+  z-index: 16;
+  width: 22.2222222222%;
+  height: 50px;
+  margin: -50px 0 0 51.1111099999%;
+  background-color: rgba(222, 222, 222, 0.45);
+  color: rgb(0, 0, 38);
+}
+
+.container ._button-7 {
+  position: relative;
+  float: right;
+  z-index: 11;
+  width: 200px;
+  height: 50px;
+  margin: -50px 240px 0 0;
+  background: url('../images/290px-MSK_Collage_2015.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: 405px auto;
+  background-position: 100% 60%;
+}
+
+.container ._button-8 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 17;
+  width: 22.2222222222%;
+  height: 50px;
+  margin: -50px 0 0 75.88889%;
+  background-color: rgba(222, 222, 222, 0.45);
+  color: rgb(0, 0, 38);
+}
+
+.container ._button-3:active,
+.container ._button-3:hover,
+.container ._button-5:active,
+.container ._button-5:hover,
+.container ._button-6:active,
+.container ._button-6:hover,
+.container ._button-8:active,
+.container ._button-8:hover {
+  background-color: rgba(222, 222, 222, 0.78);
+}
+
+.container ._button-9 {
+  position: relative;
+  float: right;
+  z-index: 12;
+  width: 200px;
+  height: 50px;
+  margin: -50px 17px 0 0;
+  background: url('../images/290px-MSK_Collage_2015(3).png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: 405px 405px;
+  background-position: 0% 60%;
+}
+
+.container ._button-2:hover,
+.container ._button-4:hover,
+.container ._button-7:hover,
+.container ._button-9:hover {
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.container ._button-2:active,
+.container ._button-4:active,
+.container ._button-7:active,
+.container ._button-9:active {
+  background-color: rgb(188, 188, 188);
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: normal;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: normal;
+  font-size: 1.25em;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
