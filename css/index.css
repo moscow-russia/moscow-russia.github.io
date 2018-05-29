@@ -1,0 +1,219 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 38);
+}
+
+.element {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 100%;
+  height: 623px;
+  background: url('../images/1.jpg') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.text {
+  float: left;
+}
+
+.text-1 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  position: relative;
+  height: 50px;
+  border-radius: 3px;
+  font-size: 1em;
+  text-align: center;
+}
+
+.container-1 {
+  float: left;
+  width: 100%;
+  min-width: 900px;
+  height: 854px;
+}
+
+.container-2 {
+  width: 900px;
+  min-width: 900px;
+  max-width: 900px;
+  height: 85px;
+  margin: 623px auto 0;
+}
+
+.container-3 {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 129px;
+  margin-top: 19px;
+  background-color: rgb(188, 188, 188);
+}
+
+.text-1 {
+  position: relative;
+  clear: both;
+  z-index: 1;
+  width: 96.7777777777%;
+  min-width: 871px;
+  min-height: 533px;
+  margin: -597px 0 0 1.55382%;
+  padding: 8px;
+  background-color: rgba(255, 255, 255, 0.59);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 38);
+}
+
+.text-2 {
+  margin: 35px 0 0 5.88889%;
+  font-size: 1.875em;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-1 {
+  float: left;
+  z-index: 2;
+  width: 200px;
+  margin: 16px 0 0 1.88889%;
+  background: url('../images/290px-MSK_Collage_2015.png') rgb(255, 255, 255);
+  background-size: auto auto;
+  background-position: center bottom;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-2 {
+  float: left;
+  clear: both;
+  z-index: 5;
+  width: 22.2222222222%;
+  margin: -50px 0 0 1.88889%;
+  background-color: rgba(222, 222, 222, 0.45);
+  color: rgb(0, 0, 38);
+}
+
+.container ._button-3 {
+  float: left;
+  z-index: 6;
+  width: 200px;
+  margin: -50px 0 0 26.66667%;
+  background: url('../images/290px-MSK_Collage_2015(2).png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: 405px 405px;
+  background-position: 0% 40%;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-4 {
+  float: left;
+  z-index: 7;
+  width: 22.2222222222%;
+  margin: -50px 0 0 26.66667%;
+  background-color: rgba(222, 222, 222, 0.45);
+  color: rgb(0, 0, 38);
+}
+
+.container ._button-5 {
+  float: right;
+  z-index: 3;
+  width: 200px;
+  margin: -50px 26.66667% 0 0;
+  background: url('../images/290px-MSK_Collage_2015.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: 405px auto;
+  background-position: 100% 60%;
+}
+
+.container ._button-6 {
+  float: right;
+  clear: both;
+  z-index: 8;
+  width: 22.2222222222%;
+  margin: -50px 26.66667% 0 0;
+  background-color: rgba(222, 222, 222, 0.45);
+  color: rgb(0, 0, 38);
+}
+
+.container ._button-7 {
+  float: right;
+  clear: both;
+  z-index: 4;
+  width: 200px;
+  margin: -50px 1.88889% 0 0;
+  background: url('../images/290px-MSK_Collage_2015(3).png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: 405px 405px;
+  background-position: 0% 60%;
+}
+
+.container ._button-1:hover,
+.container ._button-3:hover,
+.container ._button-5:hover,
+.container ._button-7:hover {
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.container ._button-1:active,
+.container ._button-3:active,
+.container ._button-5:active,
+.container ._button-7:active {
+  background-color: rgb(188, 188, 188);
+}
+
+.container ._button-8 {
+  float: right;
+  clear: both;
+  z-index: 9;
+  width: 22.2222222222%;
+  margin: -50px 1.88889% 0 0;
+  background-color: rgba(222, 222, 222, 0.45);
+  color: rgb(0, 0, 38);
+}
+
+.container ._button-2:active,
+.container ._button-2:hover,
+.container ._button-4:active,
+.container ._button-4:hover,
+.container ._button-6:active,
+.container ._button-6:hover,
+.container ._button-8:active,
+.container ._button-8:hover {
+  background-color: rgba(222, 222, 222, 0.78);
+}
+
+.text a,
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
